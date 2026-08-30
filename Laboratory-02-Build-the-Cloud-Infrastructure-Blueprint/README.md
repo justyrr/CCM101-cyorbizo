@@ -1,13 +1,6 @@
 
 # Laboratory Activity 2: Build the Cloud Infrastructure Blueprint
 
-## Student Information
-- **Name**: [Your Name]
-- **Course**: CCM101 - Cloud Computing
-- **Section**: [Your Section]
-- **Date**: [Current Date]
-- **Instructor**: [Instructor's Name]
-
 ---
 
 ## Mission Overview

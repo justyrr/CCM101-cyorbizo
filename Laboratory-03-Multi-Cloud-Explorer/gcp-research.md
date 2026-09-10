@@ -20,7 +20,7 @@ The **Google Cloud Console** is a web-based interface that allows users to:
 - Access APIs and SDKs
 - **URL:** https://console.cloud.google.com
 
-The official Google Cloud website is: https://cloud.google.com [citation:8][citation:11]
+The official Google Cloud website is: https://cloud.google.com
 
 ## Four Core Services
 1. **Compute Engine** – Virtual machines running on Google's infrastructure

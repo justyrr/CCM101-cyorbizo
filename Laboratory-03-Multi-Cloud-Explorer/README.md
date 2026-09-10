@@ -1,5 +1,3 @@
-# Checkpoint 7 - Continue Your Linux Investigation
-
 ## System Information
 
 | Category | Details |

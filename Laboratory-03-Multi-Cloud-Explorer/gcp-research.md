@@ -10,7 +10,7 @@ GCP has a global infrastructure spanning:
 - **Edge Locations:** 180+ network points of presence
 - Major regions include North America, South America, Europe, Asia Pacific, and Middle East.
 
-Detailed location information is available at: https://cloud.google.com/about/locations/ [citation:4]
+Detailed location information is available at: https://cloud.google.com/about/locations/
 
 ## Cloud Management Console
 The **Google Cloud Console** is a web-based interface that allows users to:

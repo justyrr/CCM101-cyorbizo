@@ -18,7 +18,7 @@ The **AWS Management Console** is a web-based application that provides centrali
 - Customize the AWS Console Home with widgets
 - Access all AWS event notifications
 - Chat with Amazon Q for AI-powered assistance
-- **URL:** https://console.aws.amazon.com [citation:10]
+- **URL:** [https://console.aws.amazon.com](https://aws.amazon.com/console/)
 
 ## Four Core Services
 1. **Amazon EC2 (Elastic Compute Cloud)** – Virtual servers in the cloud

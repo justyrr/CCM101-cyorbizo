@@ -39,4 +39,4 @@ The official Azure website can be found at: https://azure.microsoft.com [citatio
 - DevOps and CI/CD pipelines
 
 ## Screenshot
-![Microsoft Azure Homepage](screenshots/Microsoft%20Azure%20Homepage.png)
+![Microsoft Azure Homepage](screenshots/Microsost%20Azure%20Homepage.png)

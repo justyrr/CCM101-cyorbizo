@@ -39,4 +39,4 @@ The **AWS Management Console** is a web-based application that provides centrali
 - Enterprise migration and hybrid cloud
 
 ## Screenshot
-![AWS Console](../screenshots/AWS%20Console.png)
+![AWS Console](screenshots/AWS%20Console.png)

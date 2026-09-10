@@ -18,12 +18,12 @@ The **Azure Portal** is a web-based unified console that allows users to:
 - Manage billing and subscriptions
 - **URL:** https://portal.azure.com
 
-The official Azure website can be found at: https://azure.microsoft.com [citation:3]
+The official Azure website can be found at: https://azure.microsoft.com
 
 ## Four Core Services
-1. **Azure Virtual Machines** – Scalable computing resources [citation:13]
-2. **Azure Blob Storage** – Object storage for unstructured data [citation:13]
-3. **Azure SQL Database** – Managed relational database [citation:13]
+1. **Azure Virtual Machines** – Scalable computing resources
+2. **Azure Blob Storage** – Object storage for unstructured data
+3. **Azure SQL Database** – Managed relational database
 4. **Azure Functions** – Serverless compute service
 
 ## Three Advantages

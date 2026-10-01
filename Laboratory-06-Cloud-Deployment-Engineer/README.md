@@ -1,5 +1,3 @@
-# Laboratory 06 — Cloud Deployment Engineer
-
 ## Mission Overview
 
 In this mission, I transitioned from manually deploying single containers to deploying a multi-tier application using **Docker Compose**. I defined a two-tier architecture consisting of a **Nextcloud** web/application container and a **MariaDB** database container, deployed the entire stack with a single command, accessed the Nextcloud web interface, and then tore down the infrastructure gracefully.

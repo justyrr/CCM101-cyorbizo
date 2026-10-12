@@ -23,7 +23,7 @@ Command used: `df -h /`
 
 ## Why Check Disk Space Before a Traffic Surge?
 
-Checking disk space is critical before a massive traffic surge because web servers
+Checking disk space is important before a massive traffic surge because web servers
 continuously write logs, cache, and temporary files, and running out of disk space
 can cause the application to crash or fail to serve requests even when CPU and RAM
 are still healthy.
